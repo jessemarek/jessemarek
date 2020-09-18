@@ -10,7 +10,7 @@ Hi, my name is Jesse. I am currently a Full Stack Web Developer Student at [<img
  
  #### Contact Me
 
-📫 [Email](mailto:jesse.a.marek@gmail.com) | [<img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> LinkedIn](https://www.linkedin.com/in/jesse-a-marek)
+[📫 Email](mailto:jesse.a.marek@gmail.com) | [<img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> LinkedIn](https://www.linkedin.com/in/jesse-a-marek)
 
 <!--
 **jessemarek/jessemarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
