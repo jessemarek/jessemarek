@@ -1,4 +1,14 @@
-### Hi there 👋
+### Ready to Code 🖥 🚀
+
+Hi, my name is Jesse. I am currently a Full Stack Web Developer Student at Lambda School. I have a passion for coding and creating cool and exciting projects. I enjoy learning new technologies and am always eager to learn more.
+
+Technologies I enjoy:
+ - React
+ - JavaScript
+ - LESS/SASS
+ - Node/Express
+
+📫 Contact: [Email](mailto:jesse.a.marek@gmail.com) [LinkedIn](https://www.linkedin.com/in/jesse-a-marek)
 
 <!--
 **jessemarek/jessemarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
