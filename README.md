@@ -4,6 +4,9 @@ Hi, my name is Jesse. I am currently a Full Stack Web Developer Student at [<img
 
 #### Tech Skills
  - ✅ React
+ - ✅ Redux
+ - ✅ HTML
+ - ✅ CSS
  - ✅ JavaScript
  - ✅ LESS/SASS
  - ✅ Node/Express
