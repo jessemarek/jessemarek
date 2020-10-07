@@ -11,6 +11,9 @@ Hi, my name is Jesse. I am currently a Full Stack Web Developer Student at [<img
  - ✅ LESS/SASS
  - ✅ Node/Express
  
+ #### Certifications
+ [<img src="https://images.youracclaim.com/size/680x680/images/866c4132-ed2f-44f5-83df-86bf2ae639d9/lambda-badge-full-stack-web.png" width="250" >](https://www.youracclaim.com/badges/0cbb6630-8422-4678-b34d-c8137df8c348/public_url)
+ 
  #### Contact Me
 
 [📫 Email](mailto:jesse.a.marek@gmail.com) | [<img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> LinkedIn](https://www.linkedin.com/in/jesse-a-marek)
