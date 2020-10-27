@@ -1,6 +1,6 @@
 ### Ready to Code 🖥 🚀
 
-Hi, my name is Jesse. I am currently a Full Stack Web Developer Student at [<img src="https://assets-global.website-files.com/5cd091cfb5499f22bdf72905/5e1230986a42a4d4965e22f6_icon.png" width="16" > Lambda School](https://lambdaschool.com/). I have a passion for coding and creating cool and exciting projects. I enjoy learning new technologies and am always eager to learn more.
+Hi, my name is Jesse. I recently completed the Full Stack Web Developer course at [<img src="https://assets-global.website-files.com/5cd091cfb5499f22bdf72905/5e1230986a42a4d4965e22f6_icon.png" width="16" > Lambda School](https://lambdaschool.com/). I have a passion for coding and creating cool and exciting projects. I enjoy learning new technologies and am always eager to learn more.
 
 #### Tech Skills
  - ✅ React
