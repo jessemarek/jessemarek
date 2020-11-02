@@ -5,9 +5,11 @@ Hi, my name is Jesse. I recently completed the Full Stack Web Developer course a
 #### Tech Skills
  - ✅ React
  - ✅ Redux
+ - ✅ Recoil
  - ✅ HTML
  - ✅ CSS
  - ✅ JavaScript
+ - ✅ TypeScript
  - ✅ LESS/SASS
  - ✅ Node/Express
  
