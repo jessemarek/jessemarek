@@ -14,7 +14,7 @@ Hi, my name is Jesse. I recently completed the Full Stack Web Developer course a
  - ✅ Node/Express
  
  #### Certifications
- [<img src="https://images.youracclaim.com/size/680x680/images/866c4132-ed2f-44f5-83df-86bf2ae639d9/lambda-badge-full-stack-web.png" width="250" >](https://www.youracclaim.com/badges/0cbb6630-8422-4678-b34d-c8137df8c348/public_url)
+ [<img src="https://images.youracclaim.com/size/680x680/images/866c4132-ed2f-44f5-83df-86bf2ae639d9/lambda-badge-full-stack-web.png" width="150" >](https://www.youracclaim.com/badges/0cbb6630-8422-4678-b34d-c8137df8c348/public_url)
  
  #### Contact Me
 
